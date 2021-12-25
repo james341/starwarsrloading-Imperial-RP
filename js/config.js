@@ -150,7 +150,7 @@ var l_messages = [
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
         "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
         "All donations are subject to all regular server rules, donations will in no way grant any form of immunity against punishment and can be retracted if the transgressions have been sufficiently deemed as requiring such!", 
-        "Jedi that are listed as Officers within their linked battalion have All the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
+        "Fail Fear RP The concept of role playing fear for your character's life in situations where your attacker is able to quickly end your life at will!",
         "No RDM [Random Death Match]: The act of killing or attempting to kill a player with no roleplay reasoning behind said act!",
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
