@@ -85,7 +85,7 @@ var l_bgImages = [
         "image11.jpg",
         "image12.jpg",
         "image13.jpg",
-		"image14.jpg",
+	"image14.jpg",
 
 ];
 
@@ -125,7 +125,8 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "viccecitymall.ogg", name: "Nations - Installation Music"},
+	{ogg: "trailercinematicinfraction.ogg", name: "Nations - Installation Music"},
+	{ogg: "adelehellofromthedarksideparody.ogg", name: "Nations - Installation Music"},
 	{ogg: "starwarsmaintheme.ogg", name: "Nations - Installation Music"},
 ];
 
