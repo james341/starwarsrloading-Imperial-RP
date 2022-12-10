@@ -126,6 +126,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "trailercinematicinfraction.ogg", name: "Nations - Installation Music"},
+	{ogg: "imperialmarchchoirversiondv.ogg", name: "Nations - Installation Music"},
 	{ogg: "adelehellofromthedarksideparody.ogg", name: "Nations - Installation Music"},
 	{ogg: "starwarsmaintheme.ogg", name: "Nations - Installation Music"},
 ];
